@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/Aadarsh232005?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
+<h1 align="center">Hi 👋, I'm Aadarsh Mishra</h1>
 
 <h3 align="center">
 Software Engineering Student • Full-Stack Developer • Backend Enthusiast • AI Learner
