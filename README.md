@@ -186,7 +186,7 @@ Machine Learning model that predicts Air Quality Index using historical environm
 # 🤝 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/aadarsh-mishra-b69457307">
+  <a href="https://www.linkedin.com/in/aadarsh-mishra-b69457307/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
